@@ -1,2 +1,0 @@
-# anianime
-anime browser
